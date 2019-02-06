@@ -1,5 +1,5 @@
 Ionic tutorial from Ionic Framework website. 
 
-ionic cordova run android to run on android\n
+ionic cordova run android to run on android
 
 ionic serve to test on browser
